@@ -9,6 +9,8 @@ html{
 *{
     padding: 0;
     margin: 0;
+
+    color: #fff;
 }
 
 body{
@@ -16,4 +18,7 @@ body{
 
     font-size: 16px;
     color: white;
+}
+.container{
+    height: 100%;
 }
